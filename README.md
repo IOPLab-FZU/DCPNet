@@ -1,4 +1,4 @@
-# DCPNet
+# DPSM-Net
 Directional Prompt-Guided State-Space Modeling for Remote Sensing Image Change Captioning
 ## Dataset
 The data structure of LEVIR-CC is organized as follows:
